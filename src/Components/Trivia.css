@@ -1,0 +1,29 @@
+/* body{
+    background:rebeccapurple;
+} */
+.selected{
+
+    background:linear-gradient(to right, green, orange) !important;
+}
+.selection{
+    cursor: pointer;
+    border: 2px solid black;
+    padding: 10px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+ul{
+    list-style-type: none;
+}
+.App {
+    text-align: center;
+  }
+  h1{
+      color: aqua;
+  }
+
+  button{
+      background: red;
+      padding: 8px;
+      color: black;
+  }
